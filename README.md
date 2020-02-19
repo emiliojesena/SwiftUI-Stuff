@@ -6,6 +6,9 @@ Books, Websites, and GitHub Links to learning SwiftUI
 Web Sites<p>
 <ul>
 <li><a href="https://github.com/Juanpe/About-SwiftUI">About SwiftUI</a>
+<li><a href="https://www.hackingwithswift.com/100/swiftui">100 Days of SwiftUI</a>
+<li><a href="https://www.hackingwithswift.com/quick-start/swiftui">SwiftUI by Example</a>
+<li><a href="https://github.com/twostraws/HackingWithSwift/tree/master/SwiftUI">100 Days of SwiftUI GitHub</a>
 <li><a href="https://github.com/Blackjacx/WWDC">WWDC 2019 Session Notes</a>
 <li><a href="https://medium.com/better-programming/making-a-real-world-application-with-swiftui-cb40884c1056">Real-World Application with SwiftUI</a>
 <li><a href="https://github.com/Dimillian">Dimillian</a>
