@@ -62,7 +62,7 @@ A weekly blog about Swift, iOS and Xcode Tips and Tricks</a>
 <li><a href="https://github.com/damienissa">damienissa GitHub</a>
 <li><a href="https://www.maxcodes.io">Maxcodes</a>
 <li><a href="https://codedamn.com">codedamn</a>
-<li><a href="https://github.com/fzhlee/SwiftUI-Guide/blob/master/README_English.md">
+<li><a href="https://github.com/fzhlee/SwiftUI-Guide/blob/master/README_English.md">SwiftUI Guide</a>
 <li><a href="https://swiftuimasterclass.com">SwiftUI Masterclass</a>
 <li><a href="https://www.code-disciple.com">Code Disciple</a>
 <li><a href="https://www.letsbuildthatapp.com">Lets Build That App</a>
