@@ -17,7 +17,7 @@ Web Sites<p>
 <li><a href="https://goshdarnswiftui.com">Gosh Darn SwiftUI</a>
 <li><a href="https://github.com/filimo">Victor Kushnerov SwiftUI</a>
 <li><a href="https://github.com/DimNovo">Dmitry Novosyolov SwiftUI</a>
-<li><a href="https://github.com/amosgyamfi">Nimbbble Code</a>
+<li><a href="https://github.com/amosgyamfi">Nimbbble SwiftUI</a>
 <li><a href="https://www.avanderlee.com">SwiftLee: 
 A weekly blog about Swift, iOS and Xcode Tips and Tricks</a>
 <li><a href="https://easings.net">Easing Settings</a>
@@ -52,8 +52,6 @@ A weekly blog about Swift, iOS and Xcode Tips and Tricks</a>
 <li><a href="https://github.com/Dimillian">Dimillian</a>
 <li><a href="https://designcode.io">designcode</a>
 <li><a href="https://designcode.io/swiftui-course">Learn SwiftUI for iOS 13</a>
-<li><a href="https://www.liquidcoder.com">Liquidcoder</a>
-<li><a href="https://github.com/liquidcoder1">Liquidcoder GitHub</a>
 <li><a href="https://github.com/calebrwells">Swiftly Tilting Planet GitHub</a>
 <li><a href="https://github.com/zhenwenliOS">zhenwenliOS GitHub</a>
 <li><a href="https://github.com/DavidBolis261">MasteringProgramming GitHub</a>
@@ -61,19 +59,16 @@ A weekly blog about Swift, iOS and Xcode Tips and Tricks</a>
 <li><a href="https://github.com/CodingInANutshell">CodingInANutshell GitHub</a>
 <li><a href="https://github.com/DesignIntoCode">DesignIntoCode GitHub</a>
 <li><a href="https://github.com/TekStark">TekStark GitHub</a>
-<li><a href="https://github.com/damienissa">TekStark GitHub</a>
-<li><a href="https://github.com/emiliojesena">My GitHub</a>
+<li><a href="https://github.com/damienissa">damienissa GitHub</a>
 <li><a href="https://www.maxcodes.io">Maxcodes</a>
 <li><a href="https://codedamn.com">codedamn</a>
 <li><a href="https://github.com/fzhlee/SwiftUI-Guide/blob/master/README_English.md">
 <li><a href="https://swiftuimasterclass.com">SwiftUI Masterclass</a>
 <li><a href="https://www.code-disciple.com">Code Disciple</a>
 <li><a href="https://www.letsbuildthatapp.com">Lets Build That App</a>
-<li><a href="https://github.com/sebh/TileableVolumeNoise">Tileable Volume Noise</a>
 <li><a href="https://devslopes.com">Devslopes</a>
 <li><a href="https://github.com/PW486/swiftui-skeleton-app">SwiftUI Skeleton App</a>
 <li><a href="https://iosdevschool.com">iOS Developers School</a>
-<li><a href="https://github.com/reinder42/SwiftCheatsheet">Swift 5 Cheat Sheet</a>
 <li><a href="https://www.bigmountainstudio.com">Big Mountain Studio</a>
 
 </ul></body></html>
