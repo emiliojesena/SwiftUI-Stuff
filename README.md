@@ -45,6 +45,9 @@ Web Sites<p>
 <li><a href="https://github.com/Dimillian">Dimillian</a>
 <li><a href="https://designcode.io">designcode</a>
 <li><a href="https://designcode.io/swiftui-course">Learn SwiftUI for iOS 13</a>
+<li><a href="https://www.jianshu.com/u/785617fd05b4">WillieWangWei</a>
+<li><a href="https://github.com/WillieWangWei/SwiftUI-Tutorials">SwiftUI Tutorials from WillieWangWei</a>
+<li><a href="https://juejin.im/book/5db6b0fa6fb9a020446c5278">SwiftUI in Action, bring you the latest UI development framework</a>
 <li><a href="https://github.com/calebrwells">Swiftly Tilting Planet GitHub</a>
 <li><a href="https://github.com/zhenwenliOS">zhenwenliOS GitHub</a>
 <li><a href="https://github.com/DavidBolis261">MasteringProgramming GitHub</a>
@@ -64,6 +67,9 @@ Reference/Cheat Sheets<p>
 <ul>
 <li><a href="https://github.com/Juanpe/About-SwiftUI">About SwiftUI</a>
 <li><a href="https://goshdarnswiftui.com">Gosh Darn SwiftUI</a>
+<li><a href="https://fx-studio.github.io/swiftui_tips_and_tricks">SwiftUI - Tips & Tricks</a>
+<li><a href="https://fx-studio.github.io/swiftui_tips_and_tricks">SwiftUI - Tips & Tricks</a>
+<li><a href="https://fx-studio.github.io/swiftui_tips_and_tricks">SwiftUI - Tips & Tricks</a>
 <li><a href="https://fx-studio.github.io/swiftui_tips_and_tricks">SwiftUI - Tips & Tricks</a>
 <li><a href="https://github.com/fzhlee/SwiftUI-Guide/blob/master/README_English.md">SwiftUI Guide</a>
 
