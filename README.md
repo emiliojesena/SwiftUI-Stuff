@@ -12,13 +12,11 @@ Web Sites<p>
 <li><a href="https://github.com/mythxn/DesignCode-SwiftUI/tree/master/DesignCode">DesignCode source</a>
 <li><a href="https://swiftui-lab.com">SwiftUI Lab</a>
 <li><a href="https://gist.github.com/swiftui-lab">SwiftUI Lab Gist</a>
-<li><a href="https://swiftwithmajid.com">Majid's Blog about Swift development</a>
+<li><a href="https://swiftwithmajid.com">Majid's Blog about SwiftUI</a>
 <li><a href="https://goshdarnswiftui.com">Gosh Darn SwiftUI</a>
 <li><a href="https://github.com/filimo">Victor Kushnerov SwiftUI</a>
 <li><a href="https://github.com/DimNovo">Dmitry Novosyolov SwiftUI</a>
 <li><a href="https://github.com/amosgyamfi">Nimbbble SwiftUI</a>
-<li><a href="https://www.avanderlee.com">SwiftLee: 
-A weekly blog about Swift, iOS and Xcode Tips and Tricks</a>
 <li><a href="https://kavsoft.tech">KavSoft</a>
 <li><a href="https://sarunw.com">Sarun</a>
 <li><a href="https://github.com/sarunw">Sarun GitHub</a>
@@ -34,8 +32,6 @@ A weekly blog about Swift, iOS and Xcode Tips and Tricks</a>
 <li><a href="https://github.com/App-Designer2">App-Designer2 GitHub</a>
 <li><a href="https://thecodingtrain.com">The Coding Train</a>
 <li><a href="https://github.com/CodingTrain">The Coding Train GitHub</a>
-<li><a href="https://fxstudio.dev">Fx Studio</a>
-<li><a href="https://github.com/fx-studio">Fx Studio GitHub</a>
 <li><a href="https://rebeloper.com">rebeloper</a>
 <li><a href="https://github.com/rebeloper">rebeloper GitHub</a>
 <li><a href="https://medium.com/turkishdev">Turkish Dev</a>
@@ -60,9 +56,7 @@ A weekly blog about Swift, iOS and Xcode Tips and Tricks</a>
 <li><a href="https://swiftuimasterclass.com">SwiftUI Masterclass</a>
 <li><a href="https://www.code-disciple.com">Code Disciple</a>
 <li><a href="https://www.letsbuildthatapp.com">Lets Build That App</a>
-<li><a href="https://devslopes.com">Devslopes</a>
 <li><a href="https://github.com/PW486/swiftui-skeleton-app">SwiftUI Skeleton App</a>
-<li><a href="https://iosdevschool.com">iOS Developers School</a>
 <li><a href="https://www.bigmountainstudio.com">Big Mountain Studio</a>
 </ul>
 
