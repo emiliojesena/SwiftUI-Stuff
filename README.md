@@ -60,8 +60,6 @@ A weekly blog about Swift, iOS and Xcode Tips and Tricks</a>
 <li><a href="https://github.com/DesignIntoCode">DesignIntoCode GitHub</a>
 <li><a href="https://github.com/TekStark">TekStark GitHub</a>
 <li><a href="https://github.com/damienissa">damienissa GitHub</a>
-<li><a href="https://www.maxcodes.io">Maxcodes</a>
-<li><a href="https://codedamn.com">codedamn</a>
 <li><a href="https://github.com/fzhlee/SwiftUI-Guide/blob/master/README_English.md">SwiftUI Guide</a>
 <li><a href="https://swiftuimasterclass.com">SwiftUI Masterclass</a>
 <li><a href="https://www.code-disciple.com">Code Disciple</a>
@@ -71,4 +69,57 @@ A weekly blog about Swift, iOS and Xcode Tips and Tricks</a>
 <li><a href="https://iosdevschool.com">iOS Developers School</a>
 <li><a href="https://www.bigmountainstudio.com">Big Mountain Studio</a>
 
-</ul></body></html>
+</ul>
+
+Reference/Cheat Sheets<p>
+<ul>
+<li><a href="https://goshdarnswiftui.com">Gosh Darn SwiftUI</a>
+<li><a href="https://sarunw.com">Sarun</a>
+<li><a href="https://github.com/sarunw">Sarun GitHub</a>
+<li><a href="https://www.blckbirds.com">BLCKBIRDS</a>
+<li><a href="https://github.com/BLCKBIRDS">BLCKBIRDS GitHub</a>
+<li><a href="https://schwiftyui.com">SchwiftyUI</a>
+<li><a href="https://github.com/SchwiftyUI">SchwiftyUI GitHub</a>
+<li><a href="https://www.seemuapps.com">Seemu Apps</a>
+<li><a href="https://github.com/awseeley">Seemu Apps GitHub</a>
+<li><a href="https://www.liquidcoder.com">Liquidcoder</a>
+<li><a href="https://github.com/liquidcoder1">Liquidcoder GitHub</a>
+<li><a href="https://www.app-Designer2.io">App-Designer2</a>
+<li><a href="https://github.com/App-Designer2">App-Designer2 GitHub</a>
+<li><a href="https://thecodingtrain.com">The Coding Train</a>
+<li><a href="https://github.com/CodingTrain">The Coding Train GitHub</a>
+<li><a href="https://fxstudio.dev">Fx Studio</a>
+<li><a href="https://fx-studio.github.io/swiftui_tips_and_tricks">SwiftUI - Tips & Tricks</a>
+<li><a href="https://github.com/fx-studio">Fx Studio GitHub</a>
+<li><a href="https://rebeloper.com">rebeloper</a>
+<li><a href="https://github.com/rebeloper">rebeloper GitHub</a>
+<li><a href="https://medium.com/turkishdev">Turkish Dev</a>
+<li><a href="https://github.com/SercanKaya-TurkishDev">Turkish Dev GitHub</a>
+<li><a href="https://loydlab.blogspot.com">Loyd Lab</a>
+<li><a href="https://github.com/loydkim">Loyd Lab GitHub</a>
+<li><a href="https://highoncoding.com">azamsharp</a>
+<li><a href="https://github.com/azamsharp">azamsharp GitHub</a>
+<li><a href="https://gist.github.com/azamsharp">azamsharp Gist</a>
+<li><a href="https://medium.com/better-programming/making-a-real-world-application-with-swiftui-cb40884c1056">Real-World Application with SwiftUI</a>
+<li><a href="https://github.com/Dimillian">Dimillian</a>
+<li><a href="https://designcode.io">designcode</a>
+<li><a href="https://designcode.io/swiftui-course">Learn SwiftUI for iOS 13</a>
+<li><a href="https://github.com/calebrwells">Swiftly Tilting Planet GitHub</a>
+<li><a href="https://github.com/zhenwenliOS">zhenwenliOS GitHub</a>
+<li><a href="https://github.com/DavidBolis261">MasteringProgramming GitHub</a>
+<li><a href="https://github.com/premcodes1">PREM NALLURI GitHub</a>
+<li><a href="https://github.com/CodingInANutshell">CodingInANutshell GitHub</a>
+<li><a href="https://github.com/DesignIntoCode">DesignIntoCode GitHub</a>
+<li><a href="https://github.com/TekStark">TekStark GitHub</a>
+<li><a href="https://github.com/damienissa">damienissa GitHub</a>
+<li><a href="https://github.com/fzhlee/SwiftUI-Guide/blob/master/README_English.md">SwiftUI Guide</a>
+<li><a href="https://swiftuimasterclass.com">SwiftUI Masterclass</a>
+<li><a href="https://www.code-disciple.com">Code Disciple</a>
+<li><a href="https://www.letsbuildthatapp.com">Lets Build That App</a>
+<li><a href="https://devslopes.com">Devslopes</a>
+<li><a href="https://github.com/PW486/swiftui-skeleton-app">SwiftUI Skeleton App</a>
+<li><a href="https://iosdevschool.com">iOS Developers School</a>
+<li><a href="https://www.bigmountainstudio.com">Big Mountain Studio</a>
+
+</ul>
+</body></html>
