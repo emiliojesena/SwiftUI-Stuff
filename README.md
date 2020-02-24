@@ -30,8 +30,6 @@ Web Sites<p>
 <li><a href="https://github.com/liquidcoder1">Liquidcoder GitHub</a>
 <li><a href="https://www.app-Designer2.io">App-Designer2</a>
 <li><a href="https://github.com/App-Designer2">App-Designer2 GitHub</a>
-<li><a href="https://thecodingtrain.com">The Coding Train</a>
-<li><a href="https://github.com/CodingTrain">The Coding Train GitHub</a>
 <li><a href="https://rebeloper.com">rebeloper</a>
 <li><a href="https://github.com/rebeloper">rebeloper GitHub</a>
 <li><a href="https://medium.com/turkishdev">Turkish Dev</a>
