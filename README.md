@@ -49,9 +49,7 @@ Web Sites<p>
 <li><a href="https://github.com/calebrwells">Swiftly Tilting Planet GitHub</a>
 <li><a href="https://github.com/zhenwenliOS">zhenwenliOS GitHub</a>
 <li><a href="https://github.com/DavidBolis261">MasteringProgramming GitHub</a>
-<li><a href="https://github.com/premcodes1">PREM NALLURI GitHub</a>
 <li><a href="https://github.com/CodingInANutshell">CodingInANutshell GitHub</a>
-<li><a href="https://github.com/DesignIntoCode">DesignIntoCode GitHub</a>
 <li><a href="https://github.com/TekStark">TekStark GitHub</a>
 <li><a href="https://github.com/damienissa">damienissa GitHub</a>
 <li><a href="https://swiftuimasterclass.com">SwiftUI Masterclass</a>
