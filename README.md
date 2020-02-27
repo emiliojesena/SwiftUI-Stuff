@@ -63,6 +63,7 @@ Reference/Cheat Sheets<p>
 <ul>
 <li><a href="https://github.com/Juanpe/About-SwiftUI">About SwiftUI</a>
 <li><a href="https://goshdarnswiftui.com">Gosh Darn SwiftUI</a>
+<li><a href="https://jinxiansen.github.io/SwiftUI">SwiftUI Guide</a>
 <li><a href="https://fx-studio.github.io/swiftui_tips_and_tricks">SwiftUI - Tips & Tricks</a>
 <li><a href="https://fx-studio.github.io/swiftui_tips_and_tricks">SwiftUI - Tips & Tricks</a>
 <li><a href="https://fx-studio.github.io/swiftui_tips_and_tricks">SwiftUI - Tips & Tricks</a>
