@@ -39,8 +39,18 @@ Web Sites<p>
 <li><a href="https://highoncoding.com">azamsharp</a>
 <li><a href="https://github.com/azamsharp">azamsharp GitHub</a>
 <li><a href="https://gist.github.com/azamsharp">azamsharp Gist</a>
+<li><a href="http://www.objc.io">objc</a>
+<li><a href="https://github.com/objcio">objcio GitHub</a>
+<li><a href="https://kxcoding.com">KXCoding</a>
+<li><a href="https://github.com/kxcoding">KXCoding GitHub</a>
 <li><a href="https://www.iowncode.com">I OWN CODE</a>
 <li><a href="https://github.com/anupamchugh/iowncode">I OWN CODE GitHub</a>
+<li><a href="https://www.morningswiftui.com">Morning SwiftUI</a>
+<li><a href="https://github.com/thomas-sivilay">Morning SwiftUI GitHub</a>
+<li><a href="https://dudd.tistory.com">dudd</a>
+<li><a href="https://github.com/scharrin">dudd GitHub</a>
+<li><a href="http://nsscreencast.com">nsscreencast</a>
+<li><a href="https://github.com/nsscreencast">nsscreencast GitHub</a>
 <li><a href="https://medium.com/better-programming/making-a-real-world-application-with-swiftui-cb40884c1056">Real-World Application with SwiftUI</a>
 <li><a href="https://github.com/Dimillian">Dimillian</a>
 <li><a href="https://designcode.io">designcode</a>
@@ -66,9 +76,6 @@ Reference/Cheat Sheets<p>
 <li><a href="https://github.com/Juanpe/About-SwiftUI">About SwiftUI</a>
 <li><a href="https://goshdarnswiftui.com">Gosh Darn SwiftUI</a>
 <li><a href="https://jinxiansen.github.io/SwiftUI">SwiftUI Guide</a>
-<li><a href="https://fx-studio.github.io/swiftui_tips_and_tricks">SwiftUI - Tips & Tricks</a>
-<li><a href="https://fx-studio.github.io/swiftui_tips_and_tricks">SwiftUI - Tips & Tricks</a>
-<li><a href="https://fx-studio.github.io/swiftui_tips_and_tricks">SwiftUI - Tips & Tricks</a>
 <li><a href="https://fx-studio.github.io/swiftui_tips_and_tricks">SwiftUI - Tips & Tricks</a>
 <li><a href="https://github.com/fzhlee/SwiftUI-Guide/blob/master/README_English.md">SwiftUI Guide</a>
 
