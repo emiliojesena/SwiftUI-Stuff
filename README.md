@@ -10,6 +10,7 @@ Web Sites<p>
 <li><a href="https://www.hackingwithswift.com/quick-start/swiftui">SwiftUI by Example</a>
 <li><a href="https://github.com/Blackjacx/WWDC">WWDC 2019 Session Notes</a>
 <li><a href="https://github.com/mythxn/DesignCode-SwiftUI/tree/master/DesignCode">DesignCode source</a>
+<li><a href="https://swiftuihub.com">SwiftUI Hub</a>
 <li><a href="https://swiftui-lab.com">SwiftUI Lab</a>
 <li><a href="https://gist.github.com/swiftui-lab">SwiftUI Lab Gist</a>
 <li><a href="https://swiftwithmajid.com">Majid's Blog about SwiftUI</a>
@@ -95,6 +96,13 @@ Web Sites<p>
 <li><a href="https://www.letsbuildthatapp.com">Lets Build That App</a>
 <li><a href="https://github.com/PW486/swiftui-skeleton-app">SwiftUI Skeleton App</a>
 <li><a href="https://www.bigmountainstudio.com">Big Mountain Studio</a>
+<li><a href="https://t.me/s/learnswiftui">Learn SwiftUI from Telegram</a>
+<li><a href="https://heckj.github.io/swiftui-notes">"Using Combine" Book</a>
+<li><a href="https://swiftui.map4b.com">Learn SwiftUI</a>
+<li><a href="https://www.iosapptemplates.com/blog">iOS App Templates</a>
+<li><a href="https://swiftui.ai">SwiftUI Inspector</a>
+<li><a href="https://github.com/ChrisMash/AVPlayer-SwiftUI">AVPlayer-SwiftUI on GitHub</a>
+<li><a href="https://github.com/inamiy">Yasuhiro Inami GitHub</a>
 </ul>
 
 Reference/Cheat Sheets<p>
